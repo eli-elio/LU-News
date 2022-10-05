@@ -33,7 +33,7 @@ And create [comments table](https://github.com/laumags/LU-News/blob/master/MySQL
 
 By using migrations in Laravel the [migrations table](https://github.com/laumags/LU-News/blob/master/MySQL%20Tables/migrations.csv) is generated automatically.
 
-With this preparation, your page should look like this.
+With this preparation and written code your page should look like this.
 
 ### Registration
 ![](https://github.com/laumags/LU-News/blob/master/Gifs/register.gif)
