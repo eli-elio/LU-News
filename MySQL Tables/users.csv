@@ -1,0 +1,4 @@
+id,name,password,remember_token,created_at,updated_at
+1,Admin123,$2y$10$McmEkl9pPPm8nJodeAkh8.xvT7MBGlEpcLboMDRsFnsicbpKBfY7G,,2022-10-05 09:54:34,2022-10-05 09:54:34
+2,Admin456,$2y$10$HrThEv5xJE7981pc..sxOuMQpN/ZChoNCsjZZvSsahSkRS/M7LADu,,2022-10-05 11:40:38,2022-10-05 11:40:38
+3,Admin12345,$2y$10$joirbD.rDWLF93WvOZF9JenxeWLQV/pnqZA8ijo84Pby.4jW/rRr6,,2022-10-05 12:12:31,2022-10-05 12:12:31
